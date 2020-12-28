@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/insidetux/jekyll-shell-theme
-  revision: dfdba8ac0fe28f50f5ee48dbdc7fa208cd059ee3
+  revision: f7e99ab9413b99dd81d7b6df80079ad7ad855246
   branch: dev
   specs:
     jekyll-shell-theme (0.1.0)
